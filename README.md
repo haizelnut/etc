@@ -10,6 +10,5 @@ python organize_files.py
 
 ### 설명
 Downloads 폴더 정리가 귀찮아서 만든 간단한 자동화 도구
-```
 
 ---
